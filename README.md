@@ -40,6 +40,10 @@
   
   🛠 **Technologies:** Python, Pandas, Numpy
 
+- [Aplicación Web para Análisis de Datos de Vehículos] - Limpieza, exploración, visualización y prueba de hipótesis para identificar patrones de viajes y su relación con el clima.
+
+- 🎥 [Demo project] (https://proyecto-sprint-7-rmw4.onrender.com/)
+
 
 ### 🔹 Contact
 
