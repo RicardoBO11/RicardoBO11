@@ -31,6 +31,16 @@
 
 - 🎥 [Project](https://github.com/RicardoBO11/taxi-data-analysis)
 
+
+  🛠 **Technologies:** Python, Pandas, Numpy
+
+- [Aplicación Web para Análisis de Datos de Vehículos] - Limpieza, exploración, visualización y prueba de hipótesis para identificar patrones de viajes y su relación con el clima.
+
+- 🎥 [Demo project](https://proyecto-sprint-7-rmw4.onrender.com/)
+
+- 🎥 [Project](https://github.com/RicardoBO11/proyecto_sprint_7)
+
+
   
   🛠 **Technologies:** Python, Pandas, Matplotlib, SQL
   
@@ -40,14 +50,6 @@
 - 🎥 [Demo Video](https://www.loom.com/share/9f8011ee838e473e973163fbf3ba29c3)
 
   
-  🛠 **Technologies:** Python, Pandas, Numpy
-
-- [Aplicación Web para Análisis de Datos de Vehículos] - Limpieza, exploración, visualización y prueba de hipótesis para identificar patrones de viajes y su relación con el clima.
-
-- 🎥 [Demo project](https://proyecto-sprint-7-rmw4.onrender.com/)
-
-- 🎥 [Project](https://github.com/RicardoBO11/proyecto_sprint_7)
-
 ### 🔹 Contact
 
 📫 [Email](mailto:bolivarjo0211@gmail.com)  
