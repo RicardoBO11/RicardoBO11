@@ -29,6 +29,8 @@
   
 - 🎥 [Demo Video](https://www.loom.com/share/c7e7f66b75614288b6e0dcc5120a7935)
 
+- 🎥 [Project](https://github.com/RicardoBO11/taxi-data-analysis)
+
   
   🛠 **Technologies:** Python, Pandas, Matplotlib, SQL
   
@@ -42,8 +44,9 @@
 
 - [Aplicación Web para Análisis de Datos de Vehículos] - Limpieza, exploración, visualización y prueba de hipótesis para identificar patrones de viajes y su relación con el clima.
 
-- 🎥 [Demo project] (https://proyecto-sprint-7-rmw4.onrender.com/)
+- 🎥 [Demo project](https://proyecto-sprint-7-rmw4.onrender.com/)
 
+- 🎥 [Project](https://github.com/RicardoBO11/proyecto_sprint_7)
 
 ### 🔹 Contact
 
