@@ -24,7 +24,7 @@
 🌍 **Languages:** English B2, French B1, Spanish Native  
 
 ### 🔹 Featured Projects
-- [Taxi Data Analysis]– EDA y visualizaciones de datos de taxis en Python y SQL.
+- [Taxi Data Analysis]– EDA and taxi data visualizations in Python and SQL.
 
   
 - 🎥 [Demo Video](https://www.loom.com/share/c7e7f66b75614288b6e0dcc5120a7935)
@@ -34,7 +34,7 @@
 
   🛠 **Technologies:** Python, Pandas, Numpy
 
-- [Aplicación Web para Análisis de Datos de Vehículos] - Limpieza, exploración, visualización y prueba de hipótesis para identificar patrones de viajes y su relación con el clima.
+- [Aplicación Web para Análisis de Datos de Vehículos] - Cleaning, exploration, visualization, and hypothesis testing to identify travel patterns and their relationship to the weather.
 
 - 🎥 [Demo project](https://proyecto-sprint-7-rmw4.onrender.com/)
 
@@ -44,10 +44,19 @@
   
   🛠 **Technologies:** Python, Pandas, Matplotlib, SQL
   
-- [Data Wrangling Project] – Limpieza y estandarización de datasets.
+- [Data Wrangling Project] – Cleaning and standardizing datasets.
 
   
 - 🎥 [Demo Video](https://www.loom.com/share/9f8011ee838e473e973163fbf3ba29c3)
+  
+
+- [Call Center Performance Analysis] – Identified inefficiencies, analyzed wait times, and provided data-driven recommendations using Python and data analysis techniques.
+
+- 🎥 [Project](https://github.com/RicardoBO11/Call-Center-Performance-Analysis)
+
+  
+
+🛠 **Technologies:** Python, Pandas, Matplotlib
 
   
 ### 🔹 Contact
