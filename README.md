@@ -19,7 +19,7 @@
 
 
 
-💻 **Data Analyst | Python, SQL, Power BI, Tableau | Data Cleaning, EDA & Visualization**  
+💻 **Data Analyst | Python & SQL | Data Cleaning, EDA & Business Insights | Building real-world data projects**
 
 🌍 **Languages:** English B2, French B1, Spanish Native  
 
