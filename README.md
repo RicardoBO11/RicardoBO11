@@ -21,44 +21,80 @@
 
 💻 **Data Analyst | Python & SQL | Data Cleaning, EDA & Business Insights | Building real-world data projects**
 
+I specialize in cleaning messy datasets, uncovering insights, and building data-driven solutions that improve real-world outcomes.  
+
+Currently building projects in Python & SQL to solve practical problems in finance, operations, and customer behavior.
+
 🌍 **Languages:** English B2, French B1, Spanish Native  
 
 ### 🔹 Featured Projects
 - [Taxi Data Analysis]– EDA and taxi data visualizations in Python and SQL.
 
-  
+🚕 Analyzed taxi trip data to identify peak demand patterns and optimize pricing strategies. 
+
+📊 Key insights:
+- Identified high-demand hours increasing revenue opportunities  
+- Detected inefficiencies in trip distribution
+
+🛠 **Technologies:** Python, Pandas, Numpy
+
 - 🎥 [Demo Video](https://www.loom.com/share/c7e7f66b75614288b6e0dcc5120a7935)
 
 - 🎥 [Project](https://github.com/RicardoBO11/taxi-data-analysis)
 
 
-  🛠 **Technologies:** Python, Pandas, Numpy
+- [Vehicle Data Analysis Web App] - Cleaning, exploration, visualization, and hypothesis testing to identify travel patterns and their relationship to the weather.
 
-- [Aplicación Web para Análisis de Datos de Vehículos] - Cleaning, exploration, visualization, and hypothesis testing to identify travel patterns and their relationship to the weather.
+🚗 Vehicle Data Analysis Web App
+
+Developed a web-based data analysis application to explore vehicle datasets and identify patterns related to user behavior and external factors like weather.
+
+📊 Key insights:
+
+- Cleaned and transformed raw data for accurate analysis
+- Discovered correlations between weather conditions and travel behavior
+- Built interactive visualizations to support decision-making
+
+🛠 **Technologies:** Python, Pandas, Matplotlib, SQL
 
 - 🎥 [Demo project](https://proyecto-sprint-7-rmw4.onrender.com/)
 
 - 🎥 [Project](https://github.com/RicardoBO11/proyecto_sprint_7)
 
-
-  
-  🛠 **Technologies:** Python, Pandas, Matplotlib, SQL
   
 - [Data Wrangling Project] – Cleaning and standardizing datasets.
 
-  
+Performed data cleaning and preprocessing to transform messy datasets into structured and usable formats.
+
+📊 Key achievements:
+
+- Handled missing values, duplicates, and inconsistent formats
+- Standardized datasets for reliable analysis
+- Improved overall data quality for downstream tasks
+
+ 🛠 **Technologies:** Python, Pandas
+
+
 - 🎥 [Demo Video](https://www.loom.com/share/9f8011ee838e473e973163fbf3ba29c3)
   
 
 - [Call Center Performance Analysis] – Identified inefficiencies, analyzed wait times, and provided data-driven recommendations using Python and data analysis techniques.
 
+Analyzed call center data to identify inefficiencies and improve customer service performance.
+
+📊 Key insights:
+
+- Detected long wait times and peak congestion periods
+- Identified inefficiencies in response handling
+- Proposed data-driven recommendations to improve service quality
+
+🛠 **Technologies:** Python, Pandas, Matplotlib
+
+
 - 🎥 [Project](https://github.com/RicardoBO11/Call-Center-Performance-Analysis)
 
   
 
-🛠 **Technologies:** Python, Pandas, Matplotlib
-
-  
 ### 🔹 Contact
 
 📫 [Email](mailto:bolivarjo0211@gmail.com)  
