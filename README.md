@@ -80,7 +80,8 @@ The goal of this project was to understand why customers leave and identify acti
 
 This project demonstrates how data analysis can uncover hidden patterns in customer behavior and provide actionable insights to reduce churn and improve business performance.
 
-- [Customer Sales Analysis] – Analyzed sales data to uncover revenue drivers, customer behavior, and opportunities to increase business growth.
+
+**[Customer Sales Analysis] –** Analyzed sales data to uncover revenue drivers, customer behavior, and opportunities to increase business growth.
 
 📈 Customer Sales Analysis
 
@@ -137,7 +138,8 @@ The goal of this project was to understand customer buying behavior and uncover 
 This project shows how data analysis can be used to uncover key revenue drivers and support strategic decisions that directly impact business growth.
 
 
-- [Taxi Data Analysis] – Explored taxi trip data to identify demand patterns and optimize pricing and service efficiency.
+
+**[Taxi Data Analysis] –** Explored taxi trip data to identify demand patterns and optimize pricing and service efficiency.
 
 📞 Call Center Performance Analysis
 
@@ -184,7 +186,8 @@ The goal of this project was to analyze call center performance and uncover key 
 This project demonstrates how data analysis can be used to identify operational inefficiencies and generate actionable insights that directly impact business performance.
 
 
-- [Vehicle Data Analysis Web App] – Built an interactive app to analyze vehicle data and uncover relationships between user behavior and external factors like weather.
+
+**[Vehicle Data Analysis Web App] –** Built an interactive app to analyze vehicle data and uncover relationships between user behavior and external factors like weather.
 
 🚗 Vehicle Data Analysis Web App
 
@@ -241,7 +244,7 @@ This project demonstrates how data analysis combined with web applications can t
 
 
   
-- [Data Wrangling Project] – Cleaned and transformed raw datasets into structured, analysis-ready data for reliable insights.
+**[Data Wrangling Project] –** Cleaned and transformed raw datasets into structured, analysis-ready data for reliable insights.
 
 🧹 Data Wrangling & Data Cleaning Project
 
@@ -282,13 +285,15 @@ The goal of this project was to clean and preprocess real-world data, addressing
 
 This project highlights the critical role of data cleaning in the analytics pipeline, demonstrating how high-quality data is essential for generating trustworthy insights.
 
-- 🎥 [Demo Video](https://www.loom.com/share/9f8011ee838e473e973163fbf3ba29c3)  
+- 🎥 [Demo Video](https://www.loom.com/share/9f8011ee838e473e973163fbf3ba29c3)
+
 
 ### 🔹 Contact
 
 📫 [Email](mailto:bolivarjo0211@gmail.com)  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ricardobolivar-o/)
+
 
 ### 📊 GitHub Stats
 
