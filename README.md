@@ -29,7 +29,7 @@ Currently building projects in Python & SQL to solve practical problems in finan
 
 ### 🔹 Featured Projects
 
-- [Customer Retention Analysis] – Identified churn patterns and high-risk customer segments to improve retention and maximize customer lifetime value.
+**[Customer Retention Analysis] –** Identified churn patterns and high-risk customer segments to improve retention and maximize customer lifetime value.
 
 📊 Customer Retention Analysis
 
