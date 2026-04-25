@@ -28,72 +28,261 @@ Currently building projects in Python & SQL to solve practical problems in finan
 🌍 **Languages:** English B2, French B1, Spanish Native  
 
 ### 🔹 Featured Projects
-- [Taxi Data Analysis]– EDA and taxi data visualizations in Python and SQL.
 
-🚕 Analyzed taxi trip data to identify peak demand patterns and optimize pricing strategies. 
+- [Customer Retention Analysis] – Identified churn patterns and high-risk customer segments to improve retention and maximize customer lifetime value.
 
-📊 Key insights:
-- Identified high-demand hours increasing revenue opportunities  
-- Detected inefficiencies in trip distribution
+📊 Customer Retention Analysis
 
-🛠 **Technologies:** Python, Pandas, Numpy
+Analyzed customer behavior data to identify churn patterns and uncover key factors affecting customer retention.
+
+🎯 Objective
+
+The goal of this project was to understand why customers leave and identify actionable strategies to improve retention and long-term business performance.
+
+📊 Key Insights
+
+- Identified key factors driving customer churn (usage patterns, engagement levels, etc.)
+- Detected customer segments with a higher risk of leaving
+- Found behavioral patterns that differentiate retained vs churned customers
+- Highlighted critical moments where customers are most likely to drop off
+
+💡 Business Impact
+- Enables companies to reduce churn and retain high-value customers
+- Supports targeted retention strategies and personalized interventions
+- Improves customer lifetime value (CLV) and long-term revenue
+- Helps optimize marketing and customer success efforts
+
+🛠 Technologies Used
+
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- SQL
+
+📈 Process
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Customer segmentation/behavior analysis
+- Visualization of retention patterns
+- Insight generation and business recommendations
+
+📉 Key Metrics Analyzed
+
+- Retention rate
+- Churn rate
+- Customer behavior trends
+- Engagement indicators
+
+🔗 Repository [https://github.com/RicardoBO11/customer-retention-analysis]
+
+📌 Key Takeaway
+
+This project demonstrates how data analysis can uncover hidden patterns in customer behavior and provide actionable insights to reduce churn and improve business performance.
+
+- [Customer Sales Analysis] – Analyzed sales data to uncover revenue drivers, customer behavior, and opportunities to increase business growth.
+
+📈 Customer Sales Analysis
+
+Analyzed customer sales data to identify purchasing patterns, revenue drivers, and opportunities to increase business performance.
+
+🎯 Objective
+
+The goal of this project was to understand customer buying behavior and uncover insights that can help improve sales strategies and maximize revenue.
+
+📊 Key Insights
+
+- Identified top-performing products and revenue-generating segments
+- Detected purchasing patterns and customer preferences
+- Analyzed sales trends over time to uncover growth opportunities
+- Highlighted underperforming areas with potential for optimization
+  
+💡 Business Impact
+
+- Supports data-driven decision-making for sales strategies
+- Helps identify high-value customers and profitable segments
+- Enables optimization of product offerings and pricing strategies
+- Improves revenue forecasting and growth planning
+
+🛠 Technologies Used
+
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- SQL
+- Tableau
+
+📈 Process
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Sales trend analysis
+- Customer segmentation
+- Visualization and insight generation
+
+📊 Key Metrics
+
+- Total revenue
+- Sales trends
+- Customer segmentation
+- Product performance
+
+📊 Dashboard Preview
+![Dashboard Screenshot](https://github.com/RicardoBO11/customer-sales-analysis/blob/main/Dashboard_Top_Markets_by_Revenue.png)
+
+🔗 Repository [https://github.com/RicardoBO11/customer-sales-analysis]
+
+📌 Key Takeaway
+
+This project shows how data analysis can be used to uncover key revenue drivers and support strategic decisions that directly impact business growth.
+
+
+- [Taxi Data Analysis] – Explored taxi trip data to identify demand patterns and optimize pricing and service efficiency.
+
+📞 Call Center Performance Analysis
+
+Analyzed call center operations data to identify inefficiencies, reduce wait times, and improve overall customer experience through data-driven insights.
+
+🎯 Objective
+
+The goal of this project was to analyze call center performance and uncover key factors affecting response times, agent efficiency, and customer satisfaction.
+
+📊 Key Insights
+
+- Identified peak hours with the highest call volume, causing delays in response time
+- Detected bottlenecks in call handling that increased customer wait time
+- Found inconsistencies in agent performance across different time periods
+- Highlighted opportunities to optimize staff allocation and reduce overload
+
+💡 Business Impact
+
+- Improved decision-making for workforce planning
+- Potential reduction in customer wait times
+- Better distribution of workload among agents
+- Increased operational efficiency and customer satisfaction
+
+🛠 Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+  
+📈 Process
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualization of key metrics
+- Insight generation and recommendations
 
 - 🎥 [Demo Video](https://www.loom.com/share/c7e7f66b75614288b6e0dcc5120a7935)
 
-- 🎥 [Project](https://github.com/RicardoBO11/taxi-data-analysis)
+- 🔗 [Project](https://github.com/RicardoBO11/taxi-data-analysis)
 
 
-- [Vehicle Data Analysis Web App] - Cleaning, exploration, visualization, and hypothesis testing to identify travel patterns and their relationship to the weather.
+📌 Key Takeaway
+
+This project demonstrates how data analysis can be used to identify operational inefficiencies and generate actionable insights that directly impact business performance.
+
+
+- [Vehicle Data Analysis Web App] – Built an interactive app to analyze vehicle data and uncover relationships between user behavior and external factors like weather.
 
 🚗 Vehicle Data Analysis Web App
 
-Developed a web-based data analysis application to explore vehicle datasets and identify patterns related to user behavior and external factors like weather.
+Developed an interactive web application to analyze vehicle data and uncover patterns in user behavior and external factors such as weather conditions.
 
-📊 Key insights:
+🎯 Objective
 
-- Cleaned and transformed raw data for accurate analysis
-- Discovered correlations between weather conditions and travel behavior
-- Built interactive visualizations to support decision-making
+The goal of this project was to build a data-driven web application that allows users to explore vehicle datasets, identify trends, and understand how different factors influence travel behavior.
 
-🛠 **Technologies:** Python, Pandas, Matplotlib, SQL
+📊 Key Insights
+
+- Identified relationships between weather conditions and vehicle usage patterns
+- Detected trends in user behavior across different scenarios
+- Transformed raw data into interactive visual insights
+- Enabled easier exploration of complex datasets through a user-friendly interface
+
+💡 Business Impact
+
+- Helps understand how external factors affect transportation demand
+- Supports better decision-making for mobility and logistics planning
+- Enables data-driven strategies for optimizing services and operations
+-Improves accessibility of insights through an interactive platform
+
+🛠 Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- SQL
+- Streamlit/Render
+
+📈 Process
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature exploration (weather, usage patterns, etc.)
+- Development of interactive visualizations
+- Deployment of the web application
+
+🌐 App Features
+
+- Interactive data exploration
+- Dynamic visualizations
+- User-friendly interface
+- Real-time filtering and analysis
 
 - 🎥 [Demo project](https://proyecto-sprint-7-rmw4.onrender.com/)
 
-- 🎥 [Project](https://github.com/RicardoBO11/proyecto_sprint_7)
+- 🔗 [Project](https://github.com/RicardoBO11/proyecto_sprint_7)
+
+📌 Key Takeaway
+
+This project demonstrates how data analysis combined with web applications can transform raw data into accessible and actionable insights for real-world decision-making.
+
 
   
-- [Data Wrangling Project] – Cleaning and standardizing datasets.
+- [Data Wrangling Project] – Cleaned and transformed raw datasets into structured, analysis-ready data for reliable insights.
 
-Performed data cleaning and preprocessing to transform messy datasets into structured and usable formats.
+🧹 Data Wrangling & Data Cleaning Project
 
-📊 Key achievements:
+Transformed raw, messy datasets into clean, structured, and analysis-ready data to enable reliable insights and accurate decision-making.
 
-- Handled missing values, duplicates, and inconsistent formats
-- Standardized datasets for reliable analysis
-- Improved overall data quality for downstream tasks
+🎯 Objective
 
- 🛠 **Technologies:** Python, Pandas
+The goal of this project was to clean and preprocess real-world data, addressing common data quality issues to ensure consistency, accuracy, and usability for analysis.
 
+📊 Key Achievements
 
-- 🎥 [Demo Video](https://www.loom.com/share/9f8011ee838e473e973163fbf3ba29c3)
-  
+-  Handled missing values using appropriate imputation and filtering techniques
+-  Removed duplicates and resolved inconsistencies across datasets
+-  Standardized formats (dates, categories, text fields) for uniformity
+-  Detected and corrected data quality issues that could affect analysis results
 
-- [Call Center Performance Analysis] – Identified inefficiencies, analyzed wait times, and provided data-driven recommendations using Python and data analysis techniques.
+💡 Business Impact
 
-Analyzed call center data to identify inefficiencies and improve customer service performance.
+-  Improved data reliability for downstream analysis and reporting
+-  Reduced risk of incorrect insights caused by poor data quality
+-  Enabled more accurate decision-making based on clean datasets
+-  Established a solid foundation for advanced analytics and modeling
 
-📊 Key insights:
+🛠 Technologies Used
 
-- Detected long wait times and peak congestion periods
-- Identified inefficiencies in response handling
-- Proposed data-driven recommendations to improve service quality
+-  Python
+-  Pandas
 
-🛠 **Technologies:** Python, Pandas, Matplotlib
+📈 Process
 
+- Data inspection and quality assessment
+- Handling missing and inconsistent values
+- Data standardization and formatting
+- Validation of the cleaned dataset
+-  Preparation for analysis and modeling
 
-- 🎥 [Project](https://github.com/RicardoBO11/Call-Center-Performance-Analysis)
+📌 Key Takeaway
 
-  
+This project highlights the critical role of data cleaning in the analytics pipeline, demonstrating how high-quality data is essential for generating trustworthy insights.
+
+- 🎥 [Demo Video](https://www.loom.com/share/9f8011ee838e473e973163fbf3ba29c3)  
 
 ### 🔹 Contact
 
